@@ -1,0 +1,1 @@
+const service_ddpa = <T>(args: T): T => { return args; };
