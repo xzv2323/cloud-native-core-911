@@ -1,0 +1,1 @@
+const util_otc4 = (d: any) => d;
